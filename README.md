@@ -52,6 +52,13 @@ Here, you’ll find projects involving data analysis, data visualization, data p
 </table>
 
 
+## 📂 Featured Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| Data Quality & Data Cleaning | Patient dataset cleaning, validation, and quality assessment using Python. | [View Project](LINK_GITHUB) |
+| Power BI Dashboard | Indonesian Retail Sales & Cost Analysis. | [View Project](LINK_GITHUB) |
+| Data Engineering Pipeline | End-to-end data pipeline development. | [View Project](LINK_GITHUB) |
 
 
 
