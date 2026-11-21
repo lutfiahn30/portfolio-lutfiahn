@@ -8,11 +8,13 @@ Here, you’ll find projects involving data analysis, data visualization, data p
 
 ## 📑 Table of Contents
 
+- [Tools & Technologies](#️-tools--technologies)
+- [Python Projects](#-python-projects)
 - [Data Analytics](#-data-analytics)
 - [Power BI](#-power-bi)
 - [Data Engineering](#-data-engineering)
 - [Machine Learning](#-machine-learning)
-- [Tools & Technologies](#️-tools--technologies)
+
 
 
 ## 🛠️ Tools & Technologies
@@ -52,14 +54,9 @@ Here, you’ll find projects involving data analysis, data visualization, data p
 </table>
 
 
-## 📂 Featured Projects
+## 🐍 Python Projects
 
-| Project | Description | Repository |
+| Project | Description | Completion Date |
 |---|---|---|
-| Data Quality & Data Cleaning | Patient dataset cleaning, validation, and quality assessment using Python. | [View Project](LINK_GITHUB) |
-| Power BI Dashboard | Indonesian Retail Sales & Cost Analysis. | [View Project](LINK_GITHUB) |
-| Data Engineering Pipeline | End-to-end data pipeline development. | [View Project](LINK_GITHUB) |
-
-
-
-
+| [Patient Data Cleaning & Preprocessing](LINK_REPOSITORY) | Data cleaning, missing value imputation, duplicate removal, categorical standardization, and outlier treatment. | November 2026 |
+| [Patient Data Quality Assessment](LINK_REPOSITORY) | Data quality assessment covering completeness, validity, uniqueness, and consistency, including NIK, email, and phone number validation. | November 2026 |
