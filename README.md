@@ -1,4 +1,4 @@
-### 📊📉 Hi! I'm Lutfia Hayatun Nufus
+##📉 Hi! I'm Lutfia Hayatun Nufus
 
 
 Welcome to my portfolio. Here, I document a summary of my projects in the data field
@@ -6,13 +6,13 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 
 #### ⫶☰ Table of Contents
 
-● Data Engineering
+* Data Engineering
 
-● Machine Learning
+* Machine Learning
 
-● Power BI
+* Power BI
 
-● Data Analyst
+* Data Analyst
 
 
 
