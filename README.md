@@ -5,7 +5,7 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 
 
 
-#### ⫶☰ Table of Contents
+## ⫶☰ Table of Contents
 
 * Data Engineering
 * Machine Learning
@@ -13,7 +13,7 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 * Data Analyst
 
 
-#### Languages and Tools:
+
 ## 🛠️ Tools & Technologies
 
 <p align="left">
