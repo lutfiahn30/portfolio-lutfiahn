@@ -14,7 +14,7 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 
 
 #### Languages and Tools:
-<kbd><img src="https://githubusercontent.com" alt="SQL" width="20" height="20" /></kbd>
+<kbd><img src="https://icons8.com/icon/DbOu6NkqS1tH/sql" alt="SQL" width="20" height="20" /></kbd>
 
 
 
