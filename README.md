@@ -14,7 +14,8 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 
 
 #### Languages and Tools:
-<img src="https://shields.io" alt="SQL" />
+<kbd><img src="https://githubusercontent.com" alt="SQL" width="20" height="20" /></kbd>
+
 
 
 
