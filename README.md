@@ -22,12 +22,12 @@ Here, you’ll find projects involving data analysis, data visualization, data p
     <td><b>Programming</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=python" height="35"/>
+       <img src="https://skillicons.dev/icons?i=mysql" height="35"/>
     </td>
   </tr>
   <tr>
     <td><b>Data Analytics</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql" height="35"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -46,7 +46,7 @@ Here, you’ll find projects involving data analysis, data visualization, data p
   <tr>
     <td><b>Development Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35"/>
+      <img src="https://skillicons.dev/icons?i=github,vscode" height="35"/>
     </td>
   </tr>
 </table>
