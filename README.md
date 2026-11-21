@@ -2,6 +2,7 @@
 
 
 Welcome to my data portfolio! This repository showcases my projects, learning journey, and practical experience in the fields of Data Analytics and Data Engineering.
+
 Here, you’ll find projects involving data analysis, data visualization, data processing, and pipeline development.
 
 
@@ -16,31 +17,42 @@ Here, you’ll find projects involving data analysis, data visualization, data p
 
 ## 🛠️ Tools & Technologies
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+<table>
+  <tr>
+    <td><b>Programming</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" height="35"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Analytics</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="35"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,postgres" height="35"/>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Development Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35"/>
+    </td>
+  </tr>
+</table>
 
-### Data Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
 
-### Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,postgres,linux" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white"/>
-</p>
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
 
 
