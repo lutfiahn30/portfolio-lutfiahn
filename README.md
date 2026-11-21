@@ -14,7 +14,11 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 
 
 #### Languages and Tools:
-<kbd><img src="https://icons8.com/icon/DbOu6NkqS1tH/sql" alt="SQL" width="20" height="20" /></kbd>
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,docker,vscode,postgres,mysql,linux,gcp" />
+</p>
 
 
 
