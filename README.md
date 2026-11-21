@@ -14,4 +14,6 @@ Welcome to my portfolio. Here, I document a summary of my projects in the data f
 
 
 #### Languages and Tools:
+<img src="https://jsdelivr.net" alt="HTML5" width="24" height="24" />
+
 
