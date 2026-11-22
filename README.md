@@ -58,5 +58,5 @@ Here, you’ll find projects involving data analysis, data visualization, data p
 
 | Project | Description | Completion Date |
 |---|---|---|
-| [Patient Data Cleaning & Preprocessing](LINK_REPOSITORY) | Data cleaning, missing value imputation, duplicate removal, categorical standardization, and outlier treatment. | November 2026 |
-| [Patient Data Quality Assessment](LINK_REPOSITORY) | Data quality assessment covering completeness, validity, uniqueness, and consistency, including NIK, email, and phone number validation. | November 2026 |
+| [Patient Data Cleaning & Preprocessing](Python/Data%20cleaning_Lutfia%20Hayatun%20Nufus.ipynb) | Data cleaning, missing value imputation, duplicate removal, categorical standardization, and outlier treatment. | November 2026 |
+| [Patient Data Quality Assessment](Python/Data%20Quality_Lutfia%20HN.ipynb) | Data quality assessment covering completeness, validity, uniqueness, and consistency, including NIK, email, and phone number validation. | November 2026 |
